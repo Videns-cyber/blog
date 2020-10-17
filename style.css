@@ -65,14 +65,14 @@ img {
   min-height: 581px;
   position: relative;
   background-color: #f0e7e0;
-  background-image: url("../img/header-img-1.jpg");
+  background-image: url("https://videns-cyber.github.io/blog/img/header-img-1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 .main-header.article-page {
-  background-image: url("../img/header-img-2.jpg");
+  background-image: url("https://videns-cyber.github.io/blog/img/header-img-2.jpg");
 }
 
 .main-header-nav {
@@ -246,7 +246,7 @@ img {
   font-size: 1em;
   color: 2e2f22;
   background-color: #d7d1c9;
-  background-image: url("../img/polygon.png");
+  background-image: url("https://videns-cyber.github.io/blog/img/polygon.png");
   background-repeat: no-repeat;
   background-position: 88% 50%;
   padding: 12px 20px;
@@ -314,7 +314,7 @@ img {
 .articles-list  .articles-item-big-1{
   width: 49.16%;
   min-height: 552px;
-  background-image: url("../img/flower.jpg");
+  background-image: url("https://videns-cyber.github.io/blog/img/flower.jpg");
   background-color: #0e1315;
   background-repeat: no-repeat;
   background-size: cover;
@@ -326,7 +326,7 @@ img {
 .articles-list .articles-item-big-2  {
   width: 49.16%;
   min-height: 552px;
-  background-image: url("../img/cheesecake.jpg");
+  background-image: url("https://videns-cyber.github.io/blog/img/cheesecake.jpg");
   background-color: #0e1315;
   background-repeat: no-repeat;
   background-size: cover;
@@ -699,18 +699,18 @@ display: -webkit-box;
 }
 
 .portfolio .portfolio-list .portfolio-item:first-of-type {
-	background-image: url("../img/portfolio-item-1.jpg");
+	background-image: url("https://videns-cyber.github.io/blog/img/portfolio-item-1.jpg");
 	background-color: lightgrey;
 }
 
 .portfolio .portfolio-list .portfolio-item:nth-of-type(2) {
-	background-image: url("../img/portfolio-item-2.jpg");
+	background-image: url("https://videns-cyber.github.io/blog/img/portfolio-item-2.jpg");
 	background-color: black;
 	
 }
 
 .portfolio .portfolio-list .portfolio-item:last-of-type {
-	background-image: url("../img/portfolio-item-3.jpg");
+	background-image: url("https://videns-cyber.github.io/blog/img/portfolio-item-3.jpg");
 	background-color: lightgrey;
 }
 
@@ -817,7 +817,7 @@ display: -webkit-box;
   margin-top: 49px;
   width: auto;
   min-height: 637px;
-  background-image: url("../img/feedback.jpg");
+  background-image: url("https://videns-cyber.github.io/blog/img/feedback.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -1051,9 +1051,9 @@ display: -webkit-box;
     }
 }
 
-/*Ñòðàíèöà ñòàòüè*/
+/*Ã‘Ã²Ã°Ã Ã­Ã¨Ã¶Ã  Ã±Ã²Ã Ã²Ã¼Ã¨*/
 .main-header.article-page {
-  background-image: url("../img/header-img-2.jpg");
+  background-image: url("https://videns-cyber.github.io/blog/img/header-img-2.jpg");
 }
 
 .article-motivation {
@@ -1217,7 +1217,7 @@ display: -webkit-box;
   line-height: 14px;
 }
 
-/*Êîììåíòàðèè*/
+/*ÃŠÃ®Ã¬Ã¬Ã¥Ã­Ã²Ã Ã°Ã¨Ã¨*/
 
 .comments {
   margin:0;
@@ -1293,15 +1293,15 @@ display: -webkit-box;
 }
 
 .comments .comment-list .user-comment:first-of-type .fullname::before {
-  background-image: url("../img/comment_1.png");
+  background-image: url("https://videns-cyber.github.io/blog/img/comment_1.png");
 }
 
 .comments .comment-list .user-comment:nth-of-type(2) .fullname::before {
-  background-image: url("../img/comment_2.png");
+  background-image: url("https://videns-cyber.github.io/blog/img/comment_2.png");
 }
 
 .comments .comment-list .user-comment:last-of-type .fullname::before {
-  background-image: url("../img/comment_3.png");
+  background-image: url("https://videns-cyber.github.io/blog/img/comment_3.png");
 }
 
 .comments .comment-list .comment-text {
