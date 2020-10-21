@@ -34,6 +34,22 @@ body {
 	clear: both;
 }
 
+#upbutton {
+	height: 60px;
+	width: 60px;
+	bottom: 30px;
+	right: 30px;
+	cursor: pointer;
+	position: fixed;
+	z-index:999;
+	opacity: 0.7;
+}
+
+#upbutton:hover,
+#upbutton:focus {
+	opacity:1;
+}
+
 @media all and (max-width: 800px) {
     .container {
 	  padding:0;
