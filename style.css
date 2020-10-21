@@ -34,7 +34,7 @@ body {
 	clear: both;
 }
 
-@media screen and (max-width: 800px) {
+@media all and (max-width: 800px) {
     .container {
 	  padding:0;
     }	
@@ -120,14 +120,14 @@ img {
 
 
 
-@media screen and (max-width: 1200px) {
+@media all and (max-width: 1200px) {
     .main-header-nav .site-navigation {
 	  margin-left: 10%;
 	  margin-right: 3%;
 	}
 }
 
-@media screen and (max-width: 1050px) {
+@media all and (max-width: 1050px) {
     .main-header-nav .site-navigation {
 	  margin-left: 0;
 	  margin-right: 0;
@@ -135,7 +135,7 @@ img {
 	
 }
 
-@media screen and (max-width: 950px) {
+@media all and (max-width: 950px) {
     .main-header-nav .site-navigation-link {
 	  display: none;
 	}
@@ -423,7 +423,7 @@ img {
   padding:0;
 }
 
-@media screen and (max-width: 800px) {
+@media all and (max-width: 800px) {
   .articles .articles-list  {
     flex-direction: column;
   }
@@ -572,7 +572,7 @@ display: -webkit-box;
     background-position: center;
 }
 
-@media screen and (max-width: 950px) {
+@media all and (max-width: 950px) {
   
   
   .about-me-content {
@@ -783,7 +783,7 @@ display: -webkit-box;
   color: red;
 }
 
-@media screen and (max-width: 1000px) {
+@media all and (max-width: 1000px) {
   
   .portfolio .portfolio-list  {
     flex-direction: column;
@@ -873,7 +873,7 @@ display: -webkit-box;
   margin-right: 3%;
 }
 
-@media screen and (max-width: 800px) {
+@media all and (max-width: 800px) {
    .feedback-form-group .left-part,
    .feedback-form-group .right-part {
      width: 100%;
@@ -1032,7 +1032,7 @@ display: -webkit-box;
   right:0;
 }
 
-@media screen and (max-width: 950px) {
+@media all and (max-width: 950px) {
     .main-footer .container {
        max-width: 70%;
     }
@@ -1334,7 +1334,7 @@ display: -webkit-box;
   justify-content: space-between;
 }
 
-@media screen and (max-width: 900px) {
+@media all and (max-width: 900px) {
   .feedback-form-group.article-page  .left-part,
   .feedback-form-group.article-page  .right-part {
     flex-direction: column;
@@ -1390,7 +1390,7 @@ display: -webkit-box;
  
 }
 
-@media screen and (max-width: 800px) {
+@media all and (max-width: 800px) {
   .feedback-form-group.article-page  .left-part,
   .feedback-form-group.article-page  .right-part {
     flex-direction: column;
