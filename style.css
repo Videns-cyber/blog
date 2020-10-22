@@ -39,12 +39,12 @@ body {
 	right: 30px;
 	cursor: pointer;
 	position: fixed;
+	display: none;
 	z-index:999;
 	opacity: 0.7;
 }
 
-#upbutton:hover,
-#upbutton:focus {
+#upbutton:hover{
 	opacity:1;
 }
 
@@ -620,11 +620,11 @@ display: -webkit-box;
   }
   .about-me .about-me-picture {
     margin:0 auto;
-	min-width: 70%;
+	min-width: 95%;
   }
   
   .about-me .about-me-picture img {
-	min-width: auto;
+	min-width: 95%;
   }
   
   .about-me .about-me-description {
