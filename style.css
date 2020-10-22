@@ -862,6 +862,13 @@ display: -webkit-box;
   
 }
 
+@media (max-width: 550px) {
+	.feedback-form-group {
+             width: 100%;
+	}
+}
+
+
 .feedback-form-group:first-of-type {
   padding-top: 53px;
 }
