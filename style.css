@@ -865,6 +865,7 @@ display: -webkit-box;
 @media (max-width: 550px) {
 	.feedback.container {
            width: 100%;
+	   margin-bottom: 30px;	
 	}	
 	.feedback-form-group {
              width: 95%;
