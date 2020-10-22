@@ -129,7 +129,7 @@ img {
 }
 
 .site-navigation-icon {
-  display: none;
+  display: none;	
 }
 
 
@@ -156,10 +156,11 @@ img {
 	}
 	
 	.main-header-nav  #icon {
-       display: block;
+           display: block;
 	   font-size: 50px;
 	   color: #2e2f22;
 	   margin-right:0;
+	   outline: none;	
     }
 }
 
