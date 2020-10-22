@@ -870,6 +870,9 @@ display: -webkit-box;
 	.feedback-form-group {
              width: 95%;
 	}
+	.feedback .button-main {
+	     margin-bottom: 10px;	
+	}
 }
 
 
