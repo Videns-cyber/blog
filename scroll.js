@@ -7,7 +7,7 @@ let smoothJumpUp = function() {
 
 window.oncscroll = function() {
   let scrolled = window.pageYOffset || document.documentElement.scrollTop;
-  if (scrolled > 300) {
+  if (scrolled > 400) {
     document.getElementById('upbutton').style.display = 'block';
   } else {
     document.getElementById('upbutton').style.display = 'none';
