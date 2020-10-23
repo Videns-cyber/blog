@@ -1076,6 +1076,7 @@ display: -webkit-box;
       align-content: center;
     }	
     .main-footer .social-list  .social-list-item {
+      width: 150px;
       padding-bottom: 15px;	    
       border: 1px dashed white;	    
     }
