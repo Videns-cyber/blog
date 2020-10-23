@@ -273,7 +273,7 @@ img {
 
 @media (max-width: 800px) {
   .articles  .articles-title {
-    font-size: 1.7em;
+    font-size: 2em;
     margin-bottom: 90px;	  
   }	  
   #themes {
