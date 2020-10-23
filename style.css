@@ -1169,6 +1169,14 @@ display: -webkit-box;
   background-position: center;
 }
 
+@media (max-width: 500px) {
+  .article-motivation .social-article .social-list-article .social-list-item {
+    width: 30px;
+    height: 30px;
+  }	
+}
+
+
 .article-motivation .social-article .social-list-article .social-list-item:hover .twitter_icon ,
 .article-motivation .social-article .social-list-article .social-list-item:focus .twitter_icon  {
   fill: #1da1f2;
