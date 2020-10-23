@@ -824,6 +824,12 @@ display: -webkit-box;
   }
 }
 
+@media (max-width: 500px) {
+   .portfolio .portfolio-list .portfolio-item  {
+    width: 95%;
+    }	   
+}
+
 .feedback {
   margin-top: 85px;
   
