@@ -1112,6 +1112,16 @@ display: -webkit-box;
   color: #ff7931;
 }
 
+@media (max-width: 500px) {
+  .article-motivation  .articles-title {
+  min-width: 200px;
+  font-family: "Spectral SC", serif;
+  font-weight: 700;
+  font-size: 1.7em;
+}
+  	
+}
+
 .article-motivation p {
   margin:0;
   padding:0;
