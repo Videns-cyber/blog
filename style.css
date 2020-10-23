@@ -1073,16 +1073,16 @@ display: -webkit-box;
     }
     .main-footer .social-list {
       flex-direction: column;
-      justify-content: center;
+      align-content: center;
     }	
     .main-footer .social-list  .social-list-item {
       width: 150px;
       padding-bottom: 15px;
-      justify-content: center;	    
+      align-content: center;	    
       border: 1px dashed white;	    
     }
     .main-footer .social-list .social-list-link {
-      justify-content: center;	    
+      margin:0 auto;	    
     }
 }
 
