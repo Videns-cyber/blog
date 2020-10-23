@@ -1169,12 +1169,7 @@ display: -webkit-box;
   background-position: center;
 }
 
-@media (max-width: 500px) {
-  .article-motivation .social-article .social-list-article .social-list-item {
-    width: 30px;
-    height: 30px;
-  }	
-}
+
 
 
 .article-motivation .social-article .social-list-article .social-list-item:hover .twitter_icon ,
@@ -1228,6 +1223,22 @@ display: -webkit-box;
   background-position: 12px;
   cursor: pointer;
   
+}
+
+.article-motivation .likes .like {
+   width: 50px;
+   height: 50px;	
+}
+
+@media (max-width: 500px) {
+  .article-motivation .social-article .social-list-article .social-list-item {
+    width: 30px;
+    height: 30px;
+  }
+  .article-motivation .likes .like {
+   width: 30px;
+   height: 30px;	
+}	
 }
 
 .article-motivation  .like-dark-invisible, .like-light-invisible {
