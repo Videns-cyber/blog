@@ -1060,6 +1060,7 @@ display: -webkit-box;
 @media (max-width: 950px) {
     .main-footer .container {
        max-width: 70%;
+       padding-top: 10px;
     }
     .main-footer .social-list {
       flex-direction: column;
