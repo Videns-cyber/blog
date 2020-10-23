@@ -1050,22 +1050,15 @@ display: -webkit-box;
   text-align: left;
 }
 
-.social-list.responsive {
-  flex-direction: column;
-  align-content: flex-start;
-  margin-left: 50px;
-}
-
-.social-list.responsive #iconFooter {
-  position: absolute;
-  top:0;
-  right:0;
-}
 
 @media (max-width: 950px) {
     .main-footer .container {
        max-width: 70%;
     }
+    .main-footer .social-list {
+      flex-direction: column;
+      align-content: center;
+    }	
 }
 
 /*Ñòðàíèöà ñòàòüè*/
