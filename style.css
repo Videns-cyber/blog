@@ -862,7 +862,7 @@ display: -webkit-box;
   
 }
 
-@media (max-width: 550px) {
+@media (max-width: 650px) {
 	.feedback.container {
            width: 100%;
 	   margin-bottom: 30px;	
@@ -870,8 +870,8 @@ display: -webkit-box;
 	.feedback-form-group {
              width: 95%;
 	}
-	.feedback .button-main {
-	     margin-bottom: 10px;	
+	.feedback.container {
+	     margin-bottom: 30px;	
 	}
 }
 
@@ -1065,19 +1065,6 @@ display: -webkit-box;
 @media (max-width: 950px) {
     .main-footer .container {
        max-width: 70%;
-    }
-	
-	.main-footer .social-list .social-list-link {
-	  display: none;
-	  justify-content: flex-end;
-	}
-	
-	.main-footer .social-list  #iconFooter {
-       display: block;
-	   font-size: 50px;
-	   color: #2e2f22;
-	   margin-right:0;
-	  
     }
 }
 
