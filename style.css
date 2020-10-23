@@ -1058,6 +1058,9 @@ display: -webkit-box;
 
 
 @media (max-width: 950px) {
+    .main-footer {
+       min-width: 100px;	    
+    }
     .main-footer .container {
        max-width: 70%;
        padding-top: 10px;
@@ -1066,6 +1069,9 @@ display: -webkit-box;
       flex-direction: column;
       align-content: center;
     }	
+    .main-footer .social-list  .social-list-link {
+      padding-bottom: 10px;	    
+    }
 }
 
 /*Ñòðàíèöà ñòàòüè*/
