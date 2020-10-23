@@ -1082,6 +1082,7 @@ display: -webkit-box;
       border: 1px dashed white;	    
     }
     .main-footer .social-list .social-list-link {
+      display: block;
       margin:0 auto;	    
     }
 }
