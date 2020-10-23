@@ -1063,7 +1063,7 @@ display: -webkit-box;
 }
 
 
-@media (max-width: 950px) {
+@media (max-width: 850px) {
     .main-footer {
        min-width: 100px;	    
     }
